@@ -9,4 +9,12 @@
 |**Tools**    |Docker · Git / GitHub · systemd · Tailscale · SSH · Cloudflare · Jellyfin · Virtualization                  |
 |**Hobbies**  |Gaming · Science Fiction · Self-hosting · Linux Tinkering · Movies & Cinema · Homelabbing · Cities: Skylines|
 |**Website**  |[zaycarish.com](https://zaycarish.com)                                                                      |
-|**Email**    |[zaycarish@outlook.com](mailto:zaycarish@outlook.com)                                                       |
+|**Email**    |[zaycarish@outlook.com](mailto:zaycarish@outlook.com)     
+
+
+## 🛠️ Featured Projects
+
+- 🔥 [Osiris Firewatch](https://github.com/Zaycarish/osiris-firewatch)
+- 📊 ZSN Sentinel
+- 🖥️ [Zaycarish OS](https://zaycarish.com)
+
